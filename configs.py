@@ -3,8 +3,8 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "28634734"))
   API_HASH = os.environ.get("API_HASH", "c2ca2adbae98bfd89bcf8b65b7aa92b7")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "112434071:AAG-7OXeHL0sDYGYT6EUb18FGhKZyCqJNDw")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6703160449:AAFp-bXBmh6u7K-Q3g5sy5QSf8glqdlIotQ")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "http://t.me/Wuusvssiw_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "2022234984"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "")
@@ -32,11 +32,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://telegram.me/KingVj01)
- 
- I am Super noob Please Support My Hard Work.
-
-[Donate Me](https://t.me/KingVj01)
+🧑🏻‍💻Hi 
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.

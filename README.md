@@ -47,7 +47,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Heroku 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Unkmown24680/filestore">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 </details>
@@ -106,11 +106,11 @@ banned_users - Get All Banned Users [Owner Only]
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
 <a href="https://telegram.dog/KingVJ01"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/VJBots"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
-<a href="https://youtube.com/@Tech_VJ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://youtube.com/@T"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <a href="https://twitter.com/Cod3sofAbhi"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 <a href="https://www.instagram.com/tech.vj"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 
 # Credit
-- <b>Thanks To [Tech VJ](https://telegram.me/KingVj01) For Fixing Error In Repo & Make Repo Deployable on Web Platform.<b> 💝
+- <b>Thanks To [Te](https://telegram.me/) For Fixing Error In Repo & Make Repo Deployable on Web Platform.<b> 💝
 - <b>Thanks To All Who Help In This Journey.<b> ♥️

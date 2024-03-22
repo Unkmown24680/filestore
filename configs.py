@@ -1,14 +1,14 @@
 import os
 
 class Config(object):
-  API_ID = int(os.environ.get("API_ID", "28634734"))
-  API_HASH = os.environ.get("API_HASH", "c2ca2adbae98bfd89bcf8b65b7aa92b7")
+  API_ID = int(os.environ.get("API_ID", "28625475"))
+  API_HASH = os.environ.get("API_HASH", "da4894b36ca60168ba283519ed551606 ")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6703160449:AAFp-bXBmh6u7K-Q3g5sy5QSf8glqdlIotQ")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "http://t.me/Wuusvssiw_bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "2022234984"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "1564274544"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "")
-  BOT_OWNER = int(os.environ.get("BOT_OWNER", "6972781306"))
+  BOT_OWNER = int(os.environ.get("BOT_OWNER", "1720819569"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://desoki5669:TEST1234@cluster0.uetgple.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
   LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "2034258237"))

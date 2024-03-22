@@ -2,9 +2,9 @@ import os
 
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "28625475"))
-  API_HASH = os.environ.get("API_HASH", "da4894b36ca60168ba283519ed551606 ")
+  API_HASH = os.environ.get("API_HASH", "da4894b36ca60168ba283519ed551606")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6703160449:AAFp-bXBmh6u7K-Q3g5sy5QSf8glqdlIotQ")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "http://t.me/Wuusvssiw_bot")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "Wuusvssiw_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "1564274544"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "")
